@@ -12,7 +12,7 @@ const Navbar = () => {
     <nav className="app__navbar">
       <div className="app__navbar-logo">
         <img src={images.logo} alt="logo" />
-        <h4 style={{marginLeft: 5}}>Hapid Fadli</h4>
+        <h4 style={{marginLeft: 5}}>Elza Agustina</h4>
       </div>
       <ul className="app__navbar-links">
         {['home', 'about', 'work', 'skills', 'contact'].map((item) => (
